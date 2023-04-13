@@ -1,1 +1,2 @@
 # Machine-Learning-Python-Notebooks
+This repository contains Jupyter notebooks for various document processing tasks using the BERT model from Hugging Face. The notebooks include text classification, frequency analysis, package prediction, date extraction, signature line detection, stamp detection, text generation with LSTM, and training models using BERT and post-algorithm techniques for single-page document classification.
